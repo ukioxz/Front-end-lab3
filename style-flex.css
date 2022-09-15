@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Ubuntu:wght@700&display=swap');
+.container{
+  margin: auto;
+  width: 1280px;
+  height: 500px;
+  color: white;
+  font-size: 15px;
+  font-family: Ubuntu;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.header{
+  background-color: #F7AE4A;
+  flex:30%;
+  height: 30%;
+}
+.asideImg{
+  height: 90%;
+}
+.asideText{
+  background-color: #ED564E;
+  flex: 60%;
+  height: 60%;
+}
+.footer{
+  background-color: #B946FA;
+  flex: 65%;
+  height: 30%;
+}
+.footerImg{
+  flex: 35%;
+  height: 30%;
+}
